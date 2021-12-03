@@ -1,0 +1,24 @@
+strings/StringBuilder.java
+ strings.StringBuilder
+operators/Logic.java
+ operators.Logic
+strings/Strings.java
+ strings.Strings
+ifs/IF.java
+ ifs.IF
+strings/Exercise.java
+ strings.Exercise
+operators/Math.java
+ operators.Math
+repeatLoops/For.java
+ repeatLoops.For
+operators/Equality.java
+ operators.Equality
+strings/StringFormat.java
+ strings.StringFormat
+repeatLoops/While.java
+ repeatLoops.While
+operators/Relational.java
+ operators.Relational
+operators/Increment.java
+ operators.Increment
