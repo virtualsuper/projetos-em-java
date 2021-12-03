@@ -25,16 +25,4 @@
 
 <br>
 
-# 👩‍💼 Autora
 
-<img src=".github/picture.png" width="100px;" alt="Picture"/>
-<p><b>Nádia Ligia, desenvolvedora em construção.</b></p>
-<a href="https://www.linkedin.com/in/nlnadialigia/">
-  <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin -cd113b?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nlnadialigia/" />
-</a>&nbsp;
-<a href="mailto:nlnadialigia@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/-Email-cd113b?style=flat&logo=Gmail&logoColor=white&link=mailto:nlnadialigia@gmail.com" />
-</a>&nbsp;
-<a href="https://www.nlnadialigia.com">
-  <img alt="Homepage" src="https://img.shields.io/badge/-Homepage-cd113b" />
-</a>
